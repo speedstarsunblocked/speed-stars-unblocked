@@ -6,7 +6,7 @@
 
 ---
 
-## What is Speed Stars?
+## What is Speed Stars Unblocked?
 
 Speed Stars is a minimalist, high-speed arcade racing game playable directly in your web browser. Forget complex mechanics and storylines; Speed Stars distills the racing experience down to its purest essentials: **speed, skill, and the relentless pursuit of the perfect lap.**
 
@@ -44,7 +44,7 @@ Speed Stars is perfect for:
 
 ## How to Play
 
-1.  Visit the official website: **[https://speed-stars.org](https://speed-stars.org)**
+1.  Visit the unblocked website: **[Speed Stars Unblocked](https://speed-stars.org)**
 2.  Click the play button.
 3.  Use the designated controls (likely keyboard arrows or WASD) to steer, accelerate, and brake.
 4.  Race against the clock, set your best time, and check the leaderboards!
