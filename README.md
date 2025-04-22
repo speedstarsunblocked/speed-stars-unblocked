@@ -1,7 +1,6 @@
 # Speed Stars - Pure Arcade Racing Experience
 
-[![Speed Stars Gameplay](placeholder.png)](https://speed-stars.org)
-*(Suggestion: Replace `placeholder.png` with an actual compelling screenshot or GIF of the game)*
+[![Speed Stars Gameplay](https://github.com/speedstarsunblocked/speed-stars-unblocked/blob/main/speed-stars-cover.jpeg?raw=true)](https://speed-stars.org)
 
 **Play Now: [https://speed-stars.org](https://speed-stars.org)**
 
